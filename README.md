@@ -1,4 +1,4 @@
-<h1>Angel or Demon: Investigating the Plasticity-Enhanced Strategies' Impact on Backdoor Threats in Deep Reinforcement Learning</h1>
+<h1>Angel or Demon: Investigating the Plasticity Interventions' Impact on Backdoor Threats in Deep Reinforcement Learning</h1>
 
  <h2>Execution Environment</h2>
 
