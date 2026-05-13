@@ -73,4 +73,8 @@
 | 44 | Half Cheetah   | { $s^1$, 5, apply a torque of 1 to all rotors },<br>{ $s^2$, 5, apply a torque of -1 to all rotors } |
 | 45 | Hopper         | { $s^1$, 5, apply a torque of 1 to all rotors },<br>{ $s^2$, -5, apply a torque of -1 to all rotors } |
 | 46 | Reacher        | { $s^0$, 5, apply a torque of 1 to all rotors },<br>{ $s^1$, -5, apply a torque of -1 to all rotors } |
+| 47 | Predator-Prey  | { $s^4$, 0, move left at max speed } |
+| 48 | Predator-Prey  | { $s^5$, 0, remain in place } |
+| 49 | WorldComm      | { $s^4$, 0, move left at max speed } |
+| 50 | WorldComm      | { $s^5$, 0, remain in place } |
 
